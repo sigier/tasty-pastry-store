@@ -16,3 +16,8 @@
   font-size: 2rem;
   margin-top: 0;
 }
+
+.summary p {
+  font-style:italic;
+  font-size: 1.5rem;
+}
